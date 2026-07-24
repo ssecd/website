@@ -41,7 +41,7 @@
 	<article class="grid md:grid-cols-2 mx-8 mb-16 md:(mt-16 mb-36 mx-a) max-w-5xl">
 		<!-- service images -->
 		<section class="m-4 md:m-8">
-			<a href="https://goo.gl/maps/hvY41uYpvfMQU8GX8" target="_blank" rel="noopener noreferrer">
+			<a href="https://maps.app.goo.gl/fMW7NDMyTwCTUPJq5" target="_blank" rel="noopener noreferrer">
 				<img
 					class="border-4 rounded shadow -rotate-2 transition-all duration-150
 						hover:(rotate-2 shadow-lg)"
@@ -54,7 +54,7 @@
 		<!-- contacts text detail -->
 		<section class="m-2 md:m-8">
 			<p class="text-xl leading-tight text-center md:text-left">
-				Jl. Yos Sudarso No. 80, RT. 07, Kel. Taba Pingin, Kota Lubuklinggau, Sumatra Selatan, 31625
+				Jl. Sultan Mahmud Badaruddin II, RT 3, Tanah Periuk, Lubuk Linggau Selatan II, Lubuklinggau, Sumatera Selatan, 31627
 			</p>
 			<ol class="flex flex-wrap justify-center gap-1 mt-2 max-w-md md:(justify-start mt-6 gap-2)">
 				{#each contacts as [text, icon, href, classes]}
